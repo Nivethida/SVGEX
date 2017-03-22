@@ -1,0 +1,200 @@
+#div1{
+    width: 140px;
+    height: 100px;
+    float: left;
+    position: relative;
+    background-color: darkturquoise;
+    margin: 2px;
+}
+#div1 > p{
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+}
+#div2{
+    width: 140px;
+    height: 100px;
+    float: left;
+    position: relative;
+    margin: 2px;
+}
+#div2 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+}
+#div2 > img{
+    width: 140px;
+    height: 100px;
+}
+#div3 {
+    width: 140px;
+    height: 100px;
+    float: left;
+    position: relative;
+    background-color: limegreen;
+    margin: 2px;
+}
+#div3 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+}
+#div4 {
+    width: 140px;
+    height: 100px;
+    float: left;
+    display: block;
+    position: relative;
+    background-color: coral;
+    margin: 2px;
+}
+#div4 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+}
+#div5 {
+    width: 140px;
+    height: 100px;
+    float: left;
+    display: block;
+    position: relative;
+    background-color: deepskyblue;
+    margin: 2px;
+}
+#div5 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+}
+#div6 {
+    width: 70px;
+    height: 100px;
+    float: left;
+    display: block;
+    position: relative;
+    background-color: deepskyblue;
+    margin: 2px;
+}
+#div6 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+    font-size: 12px;
+}
+#div7 {
+    width: 70px;
+    height: 100px;
+    float: left;
+    display: block;
+    position: relative;
+    background-color: deepskyblue;
+    margin: 2px;
+}
+#div7 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+    font-size: 12px;
+}
+#div7 > img {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+}
+#div8 {
+    width: 70px;
+    height: 100px;
+    float: left;
+    display: inline-block;
+    position: relative;
+    margin: 2px;
+}
+#div8 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+    font-size: 12px;
+    background-color: darkred;
+    width: 140px;
+}
+#div8 > img{
+    width: 140px;
+    height: 100px;
+}
+#div9 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+    font-size: 12px;
+
+}
+#div9 {
+    width: 140px;
+    height: 100px;
+    float: left;
+    display: block;
+    position: relative;
+    background-color: purple;
+    margin: 2px;
+}
+#div10 {
+    width: 70px;
+    height: 100px;
+    float: left;
+    display: block;
+    position: relative;
+    background-color: purple;
+    margin: 2px;
+}
+#div10 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+}
+#div10 > img {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+}
+#div11 {
+    width: 140px;
+    height: 100px;
+    float: left;
+    display: block;
+    position: relative;
+    background-color: darkturquoise;
+    margin: 2px;
+}
+#div11 > p {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: Verdana;
+}
